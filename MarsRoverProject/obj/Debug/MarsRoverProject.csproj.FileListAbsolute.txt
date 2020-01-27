@@ -1,0 +1,6 @@
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe.config
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.exe
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\bin\Debug\MarsRoverProject.pdb
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.csprojAssemblyReference.cache
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.exe
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProject\obj\Debug\MarsRoverProject.pdb

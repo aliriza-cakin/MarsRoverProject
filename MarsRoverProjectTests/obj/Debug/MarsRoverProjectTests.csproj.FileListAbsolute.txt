@@ -1,0 +1,16 @@
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\MarsRoverProjectTests.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\MarsRoverProjectTests.pdb
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\MarsRoverProject.exe
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\MarsRoverProject.pdb
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\MarsRoverProject.exe.config
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\obj\Debug\MarsRoverProjectTests.csprojAssemblyReference.cache
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\obj\Debug\MarsRoverProjectTests.csproj.CopyComplete
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\obj\Debug\MarsRoverProjectTests.dll
+C:\Projects\Bitbucket Projects\ali\MarsRoverProject\MarsRoverProjectTests\obj\Debug\MarsRoverProjectTests.pdb
